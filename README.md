@@ -5,7 +5,7 @@
 ## Vitis HLS
 * PROJECT NAME : alike_dsc11
 * TOP FUNCTION : dsc_block11
-* For Zybo board : xc7z020clg400-1
+* For Zybo board : xc7z010-clg400-1
 * Source files:
   * dsc_block11.cpp
   * dsc_block11.h
