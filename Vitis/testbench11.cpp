@@ -1,5 +1,5 @@
 #include <iostream>
-#include "dsc_block.h"
+#include "dsc_block11.h"
 
 int main()
 {
@@ -47,7 +47,7 @@ for(int oc=0;oc<COUT;oc++)
 
 
 // run block
-dsc_block(input,depth_kernel,point_kernel,output);
+dsc_block11(input,depth_kernel,point_kernel,output);
 
 
 // print output sample
