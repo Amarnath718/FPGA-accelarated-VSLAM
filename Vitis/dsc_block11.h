@@ -3,11 +3,11 @@
 
 #define CIN 32
 #define COUT 64
-#define H 32
-#define W 32
+#define H 8
+#define W 8
 #define K 3
 
-void dsc_block(
+void dsc_block11(
 float input[CIN][H][W],
 float depth_kernel[CIN][K][K],
 float point_kernel[COUT][CIN],
