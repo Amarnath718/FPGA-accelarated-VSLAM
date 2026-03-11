@@ -4,7 +4,7 @@
 * TOP FUNCTION : dsc_block
 * For Zybo board : xc7z020clg400-1
 * Source files:
-dsc_block.cpp
-dsc_block.h
+** dsc_block.cpp
+** dsc_block.h
 * Testbench file:
 testbench.cpp
