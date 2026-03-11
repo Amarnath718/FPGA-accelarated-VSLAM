@@ -11,3 +11,5 @@
   * dsc_block.h
 * Testbench file:
   * testbench.cpp
+* Vivado file name:
+  * cnn_accelarator
