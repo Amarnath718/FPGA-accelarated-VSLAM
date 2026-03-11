@@ -1,4 +1,4 @@
-#include "dsc_block.h"
+#include "dsc_block11.h"
 
 // Depthwise convolution
 void depthwise_conv(
@@ -70,7 +70,7 @@ for(int oc=0; oc<COUT; oc++)
 
 
 // Top function
-void dsc_block(
+void dsc_block11(
 float input[CIN][H][W],
 float depth_kernel[CIN][K][K],
 float point_kernel[COUT][CIN],
