@@ -1,7 +1,8 @@
 # FPGA-accelarated-VSLAM
 ## Python simulation
 * Using the zip file of the repository:-https://github.com/rpautrat/SuperPoint
-* 
+* For alike algorithm :- https://github.com/Shiaoming/ALIKE.git
+## Vitis HLS
 * PROJECT NAME : alike_dsc
 * TOP FUNCTION : dsc_block
 * For Zybo board : xc7z020clg400-1
