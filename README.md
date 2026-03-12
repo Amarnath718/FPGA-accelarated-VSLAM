@@ -13,3 +13,5 @@
   * testbench11.cpp
 * Vivado file name:
   * cnn_accelarator11
+* Vivado std conv file name:
+   * cnn_accelarator_stdconv
