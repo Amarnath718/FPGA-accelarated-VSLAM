@@ -12,6 +12,7 @@
 * Testbench file:
   * testbench11.cpp
 * PROJECT NAME: normal_conv_layer
+* TOP FUNCTION: conv_layer
 * Source files:
   * conv_layer.cpp
   * conv_layer.h
