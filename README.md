@@ -11,6 +11,12 @@
   * dsc_block11.h
 * Testbench file:
   * testbench11.cpp
+* PROJECT NAME: normal_conv_layer
+* Source files:
+  * conv_layer.cpp
+  * conv_layer.h
+* Testbench file:
+  * testbench_conv.cpp
 * Vivado file name:
   * cnn_accelarator11
 * Vivado std conv file name:
