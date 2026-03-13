@@ -3,8 +3,8 @@
 
 #define H 8
 #define W 8
-#define CIN 8
-#define COUT 16
+#define CIN 32
+#define COUT 64
 #define K 3
 
 void conv_layer(
